@@ -74,6 +74,8 @@
   <ItemGroup>
     <Compile Include="GW2\Account\WalletCommands.cs" />
     <Compile Include="GW2\Authentication\ApiKeyCommands.cs" />
+    <Compile Include="Jokes\ChuckNorrisJokeCommands.cs" />
+    <Compile Include="Jokes\DadJokeCommands.cs" />
     <Compile Include="GW2\Misc\QuagganCommands.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
